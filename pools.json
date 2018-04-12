@@ -34,6 +34,13 @@
       "cloudpools"
     ]
   },
+   {
+    "poolName": "ForgeTop",
+    "url": "https://zel.forgetop.com",
+    "searchStrings": [
+      "Forge Top - the profitable mining pool ----->"
+    ]
+  },
   {
     "poolName": "CoinBlockers",
     "url": "https://zel.coinblockers.com/",
